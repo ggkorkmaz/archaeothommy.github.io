@@ -1,5 +1,5 @@
 ---
-title: "Thomas Rose"
+title: "Gulin Gencoglu Korkmaz"
 about:
   id: template-area
   template: jolla
@@ -15,10 +15,8 @@ about:
 
 ## Tasks for this page
 
-* Update the YAML header. you can check out different layouts of the pre-formatted part at <https://quarto.org/docs/websites/website-about.html#templates>
-* Update the legal information
-* Write a short introduction set of you
-* delete this section
+* I am a post-doc researcher at Heidelberg University Earth Sciences Institute.
+My research interests are volcanology, geology, geochemistry, geochronology
 
 
 :::{#template-area}
@@ -29,14 +27,13 @@ Here goes the information to be included in the template.
 
 ## Legal Notice
 
-Provider according to § 5 TMG is:  
-Thomas Rose  
-Am Satz 8  
-60437 Frankfurt  
+Adress
+Im Neuenheimer Feld
+Heidelberg
 Germany  
 
-Phone +49 1522 3176524  
-E-Mail: thomas.rose [at] daad-alumni.de
+Phone +xxxxxxxx
+E-Mail: ggkorkmaz@ktun.edu.tr
 
 ## Privacy
 
