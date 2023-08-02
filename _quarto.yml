@@ -2,8 +2,8 @@ project:
   type: website
     
 website:
-  site-url: https://archaeothommy.github.io/
-  repo-url: https://github.com/archaeothommy/archaeothommy.github.io/
+  site-url: https://ggkorkmaz.github.io/
+  repo-url: https://github.com/ggkorkmaz/ggkorkmaz.github.io/
   favicon: favicon.png
   title: "Thomas Rose"
   navbar:
