@@ -3,7 +3,7 @@ title: "Gulin Gencoglu Korkmaz"
 about:
   id: template-area
   template: jolla
-  image: profile.png
+  image: gg-hasandağ.png
   links:
     - icon: twitter
       text: twitter
@@ -13,7 +13,7 @@ about:
       href: https://github.com
 ---
 
-## Tasks for this page
+
 
 * I am a post-doc researcher at Heidelberg University Earth Sciences Institute.
 My research interests are volcanology, geology, geochemistry, geochronology
@@ -28,7 +28,7 @@ Here goes the information to be included in the template.
 ## Legal Notice
 
 Adress
-Im Neuenheimer Feld
+
 Heidelberg
 Germany  
 
