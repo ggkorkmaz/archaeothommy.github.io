@@ -3,7 +3,7 @@ title: "Gulin Gencoglu Korkmaz"
 about:
   id: template-area
   template: jolla
-  image: gg-hasandağ.png
+  image: gg-hasandağ.jpg
   links:
     - icon: twitter
       text: twitter
