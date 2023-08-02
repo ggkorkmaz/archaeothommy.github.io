@@ -1,5 +1,5 @@
 ---
-pagetitle: "Thomas Rose"
+pagetitle: "Gulın Gencoglu Korkmaz"
 ---
 
 # This is the Home page of your web site. 
@@ -8,4 +8,10 @@ Don't forget to update the YAML configuration of the webpage in the _quarto.yml 
 
 To learn more about quarto: <https://quarto.org>
 
-Include here anything that might be of interest, such as projects, publications, ... 
+
+ 
+Research interests and Projects
+Magma chamber processes
+Radiogenic and stable isotope geochemistry
+Mineral trace-element chemistry
+Geochronology (40Ar-39Ar; U-Pb and U-Th / He zircon dating)
