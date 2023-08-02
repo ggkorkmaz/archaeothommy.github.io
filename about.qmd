@@ -19,10 +19,14 @@ about:
 My research interests are volcanology, geology, geochemistry, geochronology
 
 
-:::{#template-area}
-
-Here goes the information to be included in the template. 
-
+Academic career
+Seit 10/2022	Postdoc, Heidelberg University
+2019 - 09/2022	Research Assistant, Konya Technical University, Faculty of Engineering and Natural Sciences, Konya, Türkei
+2017 - 2022	B.Sc. program (Energy Systems Engineering), Necmettin Erbakan University, Faculty of Engineering and Architecture, Konya, Türkei
+2015 - 2019	PhD student (Mineralogy & petrology), Konya Technical University, Faculty of Engineering and Natural Sciences, Konya, Türkei
+2013 - 2015	M.Sc. student (Mineralogy & petrology), Selcuk University, Institute of Science and Technology, Department of Geological Engineering, Konya, Türkei
+2009 - 2013	B.Sc. student (Chemical Engineering, double major), Ankara University Faculty of Engineering, Ankara, Türkei
+2007 - 2012	B.Sc. student (Geological Engineering), Ankara University Faculty of Engineering, Ankara, Türkei
 :::
 
 ## Legal Notice
